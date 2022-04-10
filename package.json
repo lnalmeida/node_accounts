@@ -1,0 +1,26 @@
+{
+  "name": "node_accounts",
+  "version": "1.0.0",
+  "description": "pequeno sistema bancário em NodeJS, onde posso simular as operações em uma conta bancária.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lnalmeida/node_accounts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lnalmeida/node_accounts/issues"
+  },
+  "homepage": "https://github.com/lnalmeida/node_accounts#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "inquirer": "^8.2.2"
+  }
+}
